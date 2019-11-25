@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#sectionOne {
+    text-align: left;
+    border: 2px solid green;
+}
+
+#sectionTwo {
+    text-align: left;
+    border: 2px solid green;
+}
